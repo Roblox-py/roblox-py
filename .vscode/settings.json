@@ -1,0 +1,13 @@
+{
+    "[python]": {
+        "editor.defaultFormatter": "evaera.vscode-rojo"
+    },
+    "editor.formatOnSave": true,
+    // "eslint.format.enable": true,
+    "files.eol": "\n",
+    "[markdown]": {
+        "editor.formatOnSave": false,
+        "editor.wordWrap": "bounded",
+        "editor.wordWrapColumn": 120
+    }
+}

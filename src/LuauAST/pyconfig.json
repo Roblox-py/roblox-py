@@ -1,0 +1,12 @@
+{
+    "extends": "../../pyconfig-base.json",
+    "compilerOptions": {
+        "outDir": "../../out/LuauAST",
+        "rootDir": "."
+    },
+    "references": [
+        {
+            "path": "../Shared"
+        }
+    ]
+}
